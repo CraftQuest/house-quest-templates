@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+# remove existing files
+rm -rf ./dist
+
 # abort on errors
 set -e
 
